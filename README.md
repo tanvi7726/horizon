@@ -1,5 +1,7 @@
 ## <a name="introduction">⚙️ Horizon: A banking and finance management platform</a>
 
+This project features an ultra-secure SSR authentication system with Plaid integration for linking multiple bank accounts. Users can view a comprehensive overview of their finances, access transaction history with filtering options, and transfer funds seamlessly with Dwolla, all in a highly responsive and user-friendly interface.
+
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Next.js
